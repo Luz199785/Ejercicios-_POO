@@ -1,3 +1,11 @@
+Para calcular el salario de empleados utilizando herencia en Java con entrada por teclado, se pueden utilizar las clases y métodos definidos 
+en el ejemplo anterior, y agregar funcionalidades para leer los valores de entrada por teclado.
+
+Aquí hay un ejemplo de cómo se podría implementar el cálculo del salario para cada tipo de empleado con entrada por teclado:
+
+
+
+
 import java.util.Scanner;
 
 public class Main {
